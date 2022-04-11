@@ -1,0 +1,5 @@
+GET /user/create?userId=pcs0331&password=test&name=pcs&email=pcs0331@naver.com
+Host: localhost:8080
+Connection: keep-alive
+Accept: */*
+
